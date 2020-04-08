@@ -15,7 +15,7 @@ segundos =  segundos%60;
 
 printf("horas%d minutos%d segundos%d", horas, min, segundos);
 
-
+printf("teste");
 
 
 
